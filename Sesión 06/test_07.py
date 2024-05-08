@@ -2,9 +2,9 @@
 
 """
     - Crear una función aplicando exepciones donde el bloque del
-    except va a considerar a los errors de division entre cero y 
+    except va a considerar a los errors de division entre cero y
     el tipo de error
-    - Los valores tienen que se er ingresados por consola 
+    - Los valores tienen que se er ingresados por consola
 """
 """
 TypeError
@@ -24,11 +24,10 @@ else:
     bloque de código 3
 """
 
+
 def operaciones(a, b):
-    try:
-        pass
-    except:
-        pass
+    pass
+
 
 operaciones(50, 0)
 operaciones(40, "Perú")

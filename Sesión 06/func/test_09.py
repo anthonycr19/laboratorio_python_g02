@@ -6,6 +6,4 @@
     3. Crear en el módulo una función que devolverá un mensaje
     indicando "Hola, 'nombre'"
     4. También mostrar un mensaje diciendo "El impuesto que tiene
-    que pagar es de 'impuesto'"
-    impuesto: 10%  del sueldo
-"""
+    que pagar es de 'impuesto'", impuesto: 10%  del sueldo"""
