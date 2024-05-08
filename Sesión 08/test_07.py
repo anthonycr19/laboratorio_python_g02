@@ -1,5 +1,6 @@
 # https://pokeapi.co/api/v2/pokemon/charizard
 
+# Status de APIs al realizar requests:
 # 200: OK
 # 404: Error de permisos
 # 500: Error de conexión con el servidor
